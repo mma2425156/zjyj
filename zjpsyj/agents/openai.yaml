@@ -1,0 +1,4 @@
+interface:
+  display_name: "ZJPSYJ"
+  short_description: "按指定节能报告编制国仕评审意见、人员表和评审过程说明"
+  default_prompt: "使用 $zjpsyj，按我指定的节能报告版本编制国仕评审三份文件。"
